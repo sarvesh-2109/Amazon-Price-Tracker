@@ -4,7 +4,11 @@
 This project is a simple Amazon price tracker that checks the price of a specific item (in this case, the Fujifilm Instax Mini Instant Camera) and sends an email alert if the price drops below a certain threshold.
 
 ## Output
-[Amazon price tracker.mp4](Amazon%20price%20tracker.mp4)
+
+
+https://github.com/sarvesh-2109/Amazon-Price-Tracker/assets/113255836/1b1b66e6-0b3d-4b86-8430-895299244c81
+
+
 
 ## Technologies Used
 - Python
